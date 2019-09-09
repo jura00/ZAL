@@ -861,8 +861,10 @@ http://iya.mba:8888/Syafii07/MS737/224
 http://iya.mba:8888/Syafii07/MS737/1199
 #EXTINF:-1 tvg-id="" tvg-name="Setanta Sports +" tvg-logo="https://www.arax.md/assets/channels/227.png" group-title="Sports",Setanta Sports +
 http://iya.mba:8888/Syafii07/MS737/2223
-#EXTINF:-1 tvg-id="" tvg-name="[TEST] NBC Sport Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1005px-NBC_Sports_Network_logo.svg.png" group-title="Sports",[TEST] NBC Sport Network
-http://iya.mba:8888/Syafii07/MS737/2245
+#EXTINF:-1 tvg-id="" tvg-name="[TEST] NBC Sport Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1005px-NBC_Sports_Network_logo.svg.png" group-title="Sports",[HD] NBC Sport Network
+https://dl.dropbox.com/s/it28h3rdongg4jj/beins1.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="[TEST] NBC Sport Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1005px-NBC_Sports_Network_logo.svg.png" group-title="Sports",[SD] NBC Sport Network
+https://dl.dropbox.com/s/tvxuhfyvvry09wv/beinspd.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="ESPN News" tvg-logo="http://a.espncdn.com/prod/assets/watchespn/appletv/images/channels-carousel/espnews.png" group-title="News",ESPN News
 http://iya.mba:8888/Syafii07/MS737/2221
 #EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S01 E01" tvg-logo="http://iya.mba:8888/images/5ZNrAvoNAG9scYHgxLVyozypOmV_small.jpg" group-title="Serial",Game of Thrones S01 E01
