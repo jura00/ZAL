@@ -51,7 +51,7 @@ http://iya.mba:8888/Syafii07/MS737/1191
 http://iya.mba:8888/Syafii07/MS737/1512
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png?v=8.7.4" group-title="News",CNN Indonesia
 http://iya.mba:8888/Syafii07/MS737/44
-#EXTINF:-1 tvg-id="" tvg-name="CNN Int" tvg-logo="" group-title="News",CNN Int
+#EXTINF:-1 tvg-id="" tvg-name="CNN Int" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQ8zb81kC4awgkUlmtaBjGQROkkg_e9NXFcReN0G9U_YxkLxl" group-title="News",CNN International
 http://iya.mba:8888/Syafii07/MS737/1200
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu News" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="News",Berita Satu News
 http://iya.mba:8888/Syafii07/MS737/136
