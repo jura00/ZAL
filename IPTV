@@ -57,9 +57,9 @@ http://iya.mba:8888/Syafii07/MS737/1200
 http://iya.mba:8888/Syafii07/MS737/136
 #EXTINF:-1 tvg-id="" tvg-name="DW TV Asia" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-ASIA-670x300.jpg" group-title="News",DW TV Asia
 http://iya.mba:8888/Syafii07/MS737/205
-#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE" tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="News",TV ONE
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE" tvg-logo="https://tvonenews.tv/assets/img/element/logo-tvone-transp.png" group-title="News",TV ONE
 http://iya.mba:8888/Syafii07/MS737/29
-#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0" group-title="News",Kompas TV
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7DTgtnfQEl9dvbelDBFU5mfTSysA5lzbMEnF5xMtWm8afJB5blQ" group-title="News",Kompas TV
 http://iya.mba:8888/Syafii07/MS737/30
 #EXTINF:-1 tvg-id="" tvg-name="Metro TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png" group-title="News",Metro TV FHD
 http://iya.mba:8888/Syafii07/MS737/1697
