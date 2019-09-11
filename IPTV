@@ -37,9 +37,9 @@ http://iya.mba:8888/Syafii07/MS737/1845
 http://iya.mba:8888/Syafii07/MS737/33
 #EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://www.nontonbal.com/wp-content/uploads/2019/07/ochannel-tv-stream-084d39-630x380.jpg" group-title="Lokal",O Channel
 http://iya.mba:8888/Syafii07/MS737/1727
-#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia" tvg-logo="https://ganteng.stream/liga1.png" group-title="Sports",Liga 1 Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia" tvg-logo="https://i.imgur.com/ihxIh5M.jpg" group-title="Sports",Usee Sport
 http://iya.mba:8888/Syafii07/MS737/1185
-#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia 2" tvg-logo="https://ganteng.stream/liga1.png" group-title="Sports",Liga 1 Indonesia 2
+#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia 2" tvg-logo="https://i.imgur.com/vHFUiKk.png" group-title="Sports",Usee Prime
 http://iya.mba:8888/Syafii07/MS737/1719
 #EXTINF:-1 tvg-id="" tvg-name="MNC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/dc/MNCSports_tegak.png" group-title="Sports",MNC Sport
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -682,10 +682,10 @@ http://iya.mba:8888/Syafii07/MS737/352
 #EXTINF:-1 tvg-id="" tvg-name="TLC English" tvg-logo="https://i.imgur.com/VuFFsjk.png" group-title="Variety",TLC English
 http://iya.mba:8888/Syafii07/MS737/351
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/gb5v2JM" group-title="Sports",TVRI Sports backup 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z9TVuhG.jpg" group-title="Sports",TVRI Sports backup 1
 http://tvristream-i.akamaihd.net:80/hls/live/761941-b/akamai-tvri/stream04/streamPlaylist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/gb5v2JM" group-title="Sports",TVRI Sports backup 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z9TVuhG.jpg" group-title="Sports",TVRI Sports backup 2
 http://210.210.155.35/session/4e6c8c72-96ab-11e9-b6f3-b82a72d63267/qwr9ew/s/s107/01.m3u8
  
 #EXTINF:-2,TV2
