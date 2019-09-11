@@ -239,6 +239,8 @@ http://iya.mba:8888/Syafii07/MS737/873
 http://iya.mba:8888/Syafii07/MS737/1498
 #EXTINF:-1 tvg-id="RED.id" tvg-name="Red by HBO HD" tvg-logo="https://imgbbb.com/images/2019/04/30/REDBYHBO.png" group-title="Movie",Red by HBO HD
 http://iya.mba:8888/Syafii07/MS737/874
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie",Cinemax (Backup)
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=4D1FD81951345C2BE9E1456D3DFA5E82D535A8FA&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie",Cinemax HD
 http://iya.mba:8888/Syafii07/MS737/796
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie",Cinemax FHD
