@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Welcome" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Zc7uRfgyoHAgLpbF7ViPf5CuSAY9GGJ9KBRuovs3nRF-RyrmZf9SFO0" group-title="Welcome",Welcome Free User
+#EXTINF:-1 tvg-id="Welcome" tvg-logo="https://i.imgur.com/EehcAkW.png" group-title="Welcome",Welcome Free User
 https://i.imgur.com/a6Ls4ry.png
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.imgur.com/3v4S6qL.png" group-title="Lokal",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -89,35 +89,35 @@ http://iya.mba:8888/Syafii07/MS737/104
 http://iya.mba:8888/Syafii07/MS737/2336
 #EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://i.imgur.com/tG6ERpS.jpg" group-title="Kids",Duck TV
 http://iya.mba:8888/Syafii07/MS737/1854
-#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Astro_Ceria_Channel_ID_2006.png" group-title="Kids",Astro Ceria
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="https://i.imgur.com/U3vhmSX.png" group-title="Kids",Astro Ceria
 http://iya.mba:8888/Syafii07/MS737/2239
-#EXTINF:-1 tvg-id="" tvg-name="Astro TVIQ" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/610_300.png" group-title="Kids",Astro TVIQ
+#EXTINF:-1 tvg-id="" tvg-name="Astro TVIQ" tvg-logo="https://i.imgur.com/vSBJKIo.png" group-title="Kids",Astro TVIQ
 http://iya.mba:8888/Syafii07/MS737/2238
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nick Toons" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/f/fe/Nicktoons_SPLAT%21.PNG/revision/latest?cb=20171006010144" group-title="Kids",Nick Toons
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nick Toons" tvg-logo="https://i.imgur.com/jqTpDAc.png" group-title="Kids",Nick Toons
 http://iya.mba:8888/Syafii07/MS737/335
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon ID
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://i.imgur.com/zeCL3TF.png" group-title="Kids",Nickelodeon ID
 http://iya.mba:8888/Syafii07/MS737/962
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="Kids",Nick Jr ID
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="https://i.imgur.com/mFz1NCT.png" group-title="Kids",Nick Jr ID
 http://iya.mba:8888/Syafii07/MS737/522
-#EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/5b/DreamWorks_Animation_SKG_logo.png" group-title="Kids",Dream Works HD
+#EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="https://i.imgur.com/5cto9lO.png" group-title="Kids",Dream Works HD
 http://iya.mba:8888/Syafii07/MS737/936
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel ID
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://i.imgur.com/KD60h3Y.png" group-title="Kids",Disney Channel ID
 http://iya.mba:8888/Syafii07/MS737/306
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",Cartoon Network ID HD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network ID HD" tvg-logo="https://i.imgur.com/C99w194.png" group-title="Kids",Cartoon Network ID HD
 http://iya.mba:8888/Syafii07/MS737/680
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network ID FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",Cartoon Network ID FHD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network ID FHD" tvg-logo="https://i.imgur.com/C99w194.png" group-title="Kids",Cartoon Network ID FHD
 http://iya.mba:8888/Syafii07/MS737/1532
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="https://yt3.ggpht.com/a-/AJLlDp3iSf8EJ-cop8fRkxIKeU7JnMJvDtLWjbsKlA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Kids",Boomerang HD
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="https://i.imgur.com/bRh57TB.png" group-title="Kids",Boomerang HD
 http://iya.mba:8888/Syafii07/MS737/305
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://4.bp.blogspot.com/_WEmgbnumRFY/SO9bwY05QtI/AAAAAAAAGsY/EALyb7B2MVk/s400/Baby_tv.jpg" group-title="Kids",Baby TV
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://i.imgur.com/RtpO81G.jpg" group-title="Kids",Baby TV
 http://iya.mba:8888/Syafii07/MS737/296
-#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Nick-jr-2-logo-i1.png/revision/latest?cb=20161111232146" group-title="Kids",Nick Jr 2
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://i.imgur.com/7DKP028.png" group-title="Kids",Nick Jr 2
 http://iya.mba:8888/Syafii07/MS737/341
-#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="Disney Junior" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/disney-jr-post.jpg" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/sUJAY0c.jpg" group-title="Kids",Disney Junior
 http://iya.mba:8888/Syafii07/MS737/213
-#EXTINF:-1 tvg-id="" tvg-name="Reformed 21 HD" tvg-logo="" group-title="Lokal",Reformed 21 HD
+#EXTINF:-1 tvg-id="" tvg-name="Reformed 21 HD" tvg-logo="https://i.imgur.com/FkbM7Wj.png" group-title="Lokal",Reformed 21 HD
 http://iya.mba:8888/Syafii07/MS737/1208
-#EXTINF:-1 tvg-id="" tvg-name="Life" tvg-logo="" group-title="Lokal",Life
+#EXTINF:-1 tvg-id="" tvg-name="Life" tvg-logo="https://i.imgur.com/l6lmhxQ.jpg" group-title="Lokal",Life
 http://iya.mba:8888/Syafii07/MS737/1772
 #EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="" group-title="Lokal",Jak TV
 http://iya.mba:8888/Syafii07/MS737/1210
