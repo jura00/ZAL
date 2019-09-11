@@ -119,27 +119,27 @@ http://iya.mba:8888/Syafii07/MS737/213
 http://iya.mba:8888/Syafii07/MS737/1208
 #EXTINF:-1 tvg-id="" tvg-name="Life" tvg-logo="https://i.imgur.com/l6lmhxQ.jpg" group-title="Lokal",Life
 http://iya.mba:8888/Syafii07/MS737/1772
-#EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="" group-title="Lokal",Jak TV
+#EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="https://i.imgur.com/dUhKs1R.png" group-title="Lokal",Jak TV
 http://iya.mba:8888/Syafii07/MS737/1210
-#EXTINF:-1 tvg-id="DaaiTv.id" tvg-name="DAAI TV" tvg-logo="http://images2.useetv.com/logo_daaitv_big1.png?v=1.0.0.0" group-title="Lokal",DAAI TV
+#EXTINF:-1 tvg-id="DaaiTv.id" tvg-name="DAAI TV" tvg-logo="https://i.imgur.com/QYWdOkB.png" group-title="Lokal",DAAI TV
 http://iya.mba:8888/Syafii07/MS737/21
-#EXTINF:-1 tvg-id="" tvg-name="TV Mu" tvg-logo="https://i.ibb.co/4ZRL8HW/tvmu.jpg" group-title="Religi",TV Mu
+#EXTINF:-1 tvg-id="" tvg-name="TV Mu" tvg-logo="https://i.imgur.com/j8dZepP.jpg" group-title="Religi",TV Mu
 http://iya.mba:8888/Syafii07/MS737/1726
-#EXTINF:-1 tvg-id="" tvg-name="Makkah TV" tvg-logo="https://lh3.googleusercontent.com/Z7OKkgpN2zx_3bGJU7_soaVAJhtJXYE26UVhb9yomFLPjfhVIZ7K0L-6b1f7kcGH5KI-=h355" group-title="Religi",Makkah TV
+#EXTINF:-1 tvg-id="" tvg-name="Makkah TV" tvg-logo="https://i.imgur.com/MCAZAk9.png" group-title="Religi",Makkah TV
 http://iya.mba:8888/Syafii07/MS737/297
-#EXTINF:-1 tvg-id="" tvg-name="Madina TV" tvg-logo="" group-title="Religi",Madina TV
+#EXTINF:-1 tvg-id="" tvg-name="Madina TV" tvg-logo="https://i.imgur.com/R6HPvWb.png" group-title="Religi",Madina TV
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Akhyar TV" tvg-logo="" group-title="Religi",Akhyar TV
+#EXTINF:-1 tvg-id="" tvg-name="Akhyar TV" tvg-logo="https://i.imgur.com/nAIMgGP.png" group-title="Religi",Akhyar TV
 http://iya.mba:8888/Syafii07/MS737/941
-#EXTINF:-1 tvg-id="" tvg-name="Ashiil TV" tvg-logo="" group-title="Religi",Ashiil TV
+#EXTINF:-1 tvg-id="" tvg-name="Ashiil TV" tvg-logo="https://i.imgur.com/WoH92hq.png" group-title="Religi",Ashiil TV
 http://iya.mba:8888/Syafii07/MS737/1503
-#EXTINF:-1 tvg-id="" tvg-name="Asjawa TV" tvg-logo="" group-title="Religi",Asjawa TV
+#EXTINF:-1 tvg-id="" tvg-name="Asjawa TV" tvg-logo="https://i.imgur.com/pCeam3b.jpg" group-title="Religi",Asjawa TV
 http://iya.mba:8888/Syafii07/MS737/944
-#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="http://4.bp.blogspot.com/-cD0bc5yPj2o/VM5lo1oI4qI/AAAAAAAARXQ/jmZX8SGJvCE/s1600/TV1%2BMalaysia%2BOnline%2BLive%2BStreaming.png" group-title="Malaysia",TV1
+#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="https://i.imgur.com/F1zXUzD.png" group-title="Malaysia",TV1
 http://iya.mba:8888/Syafii07/MS737/2262
-#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia",TV2
+#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://i.imgur.com/1fcqGkU.png" group-title="Malaysia",TV2
 http://iya.mba:8888/Syafii07/MS737/2263
-#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tv3-png-6.png" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.imgur.com/sEV3ZVZ.png" group-title="Malaysia",TV3
 http://iya.mba:8888/Syafii07/MS737/2264
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_300.png" group-title="Malaysia",TV8
 http://iya.mba:8888/Syafii07/MS737/2333
