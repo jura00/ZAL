@@ -13,9 +13,9 @@ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV HD" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="Lokal",MNCTV HD
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://imgur.com/hww4cfj" group-title="Lokal",NET TV
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://i.imgur.com/AEKQWgC.png" group-title="Lokal",NET TV
 http://iya.mba:8888/Syafii07/MS737/24
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://imgur.com/hww4cfj" group-title="Lokal",NET TV FHD
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://i.imgur.com/AEKQWgC.png" group-title="Lokal",NET TV FHD
 http://iya.mba:8888/Syafii07/MS737/78
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/transformasi-logo-tvri-_190405212444-949.jpg" group-title="News",TVRI
 http://iya.mba:8888/Syafii07/MS737/36
