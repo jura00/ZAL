@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Welcome" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Zc7uRfgyoHAgLpbF7ViPf5CuSAY9GGJ9KBRuovs3nRF-RyrmZf9SFO0" group-title="Welcome",Welcome Free User
-https://i.imgur.com/YMlAabp.jpg
+https://i.imgur.com/a6Ls4ry.png
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="Lokal",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="Lokal",RCTI HD
